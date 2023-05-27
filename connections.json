@@ -1,0 +1,10 @@
+{
+    "connections": [
+      {
+        "conn_id": "aws_default",
+        "conn_type": "aws",
+        "login": "AKIAYAAO5HRMLHLJW6GR",
+        "password": "9H71QBX1HsyBml2KLscBC8gVZfoOxKTBi/qlbOUU"
+      }
+    ]
+  }
